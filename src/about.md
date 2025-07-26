@@ -120,7 +120,7 @@ icon: user
     <div class="timeline-content">
       <div class="timeline-date">2021年~现在</div>
       <h4 class="timeline-title">自由职业者 & AI教育者</h4>
-      <p class="timeline-desc">主要在Upwork接订单，探索多元职业视角。近期在线上教授10+女性AI技能，包括通义听悟、Get笔记、Coze智能体等，收获学员感谢与成长</p>
+      <p class="timeline-desc">主要在Upwork接订单，探索多元职业视角。近期在线上教授10+女性AI技能，包括通义听悟、Get笔记、Coze智能体和即梦AI等，收获学员感谢与成长</p>
     </div>
   </div>
 </div>
