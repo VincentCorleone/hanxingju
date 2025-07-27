@@ -10,12 +10,6 @@ export const enSidebar = sidebar({
       link: "demo/",
       children: "structure",
     },
-    {
-      text: "Articles",
-      icon: "book",
-      prefix: "posts/",
-      children: "structure",
-    },
     "intro",
     {
       text: "Slides",
