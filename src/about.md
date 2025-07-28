@@ -7,7 +7,7 @@ icon: user
 # 👋 你好，我是葛星辰
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/resources/images/yongchun.png" alt="编程导师" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 1rem;" />
+  <img src="/resources/images/avatar.jpg" alt="编程导师" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 1rem;" />
   <h2 style="color: #3eaf7c; margin: 0;">全栈软件工程师 | 系统架构师 | AI教育者</h2>
 </div>
 
