@@ -11,6 +11,7 @@ icon: user
   <h2 style="color: #3eaf7c; margin: 0;">现鸿蒙开发工程师<br>前中级Java开发工程师(云原生倾向) / 未来鸿蒙生态专家 </h2>
 </div>
 
+推荐阅读🌐网页版简历: [https://interstellar.fan/about2.html](https://interstellar.fan/about2.html)
 ## 🎯 职业目标
 
 以多元职业探索的跨界视野为依托，重视鸿蒙生态在国际博弈中的战略定位，深耕鸿蒙开发领域：​
