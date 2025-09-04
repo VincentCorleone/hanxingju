@@ -137,7 +137,7 @@ icon: user
     <div class="timeline-content">
       <div class="timeline-date">2021年~现在</div>
       <h4 class="timeline-title">职业空白期</h4>
-      <p class="timeline-desc">探索多元职业视角：在Upwork接软件开发订单；学习Flutter开发/鸿蒙开发，以练习为目的开发出数个Flutter/鸿蒙应用，获得数张华为总裁吴勇刚签发的结课证书；送外卖，做代驾；在线上教授10+女性AI技能，包括通义听悟、Get笔记、Coze智能体和即梦AI等，收获学员感谢。</p>
+      <p class="timeline-desc">探索多元职业视角：在Upwork接软件开发订单；学习Flutter开发/鸿蒙开发，以练习为目的开发出数个Flutter/鸿蒙应用，获得数张华为总裁吴勇刚签发的结课证书；给<a href="https://github.com/MITDeepLearning/introtodeeplearning" target="_blank" rel="noopener noreferrer">MIT的深度学习课程</a>提PR并被接受；送外卖，做代驾；在线上教授10+女性AI技能，包括通义听悟、Get笔记、Coze智能体和即梦AI等，收获学员感谢。</p>
     </div>
   </div>
 </div>
