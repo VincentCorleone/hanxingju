@@ -1,6 +1,6 @@
 ---
-title: For：中软国际
-description: 葛星辰的求职自我介绍
+title: 葛星辰的个人简历
+description: 瀚星居信息技术有限公司创始人葛星辰的通用个人简历
 icon: user
 ---
 
@@ -8,7 +8,7 @@ icon: user
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/resources/images/avatar.jpg" alt="编程导师" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 1rem;" />
-  <h2 style="color: #3eaf7c; margin: 0;">现鸿蒙开发工程师<br>前中级Java开发工程师(云原生倾向) / 未来鸿蒙生态专家 </h2>
+  <h2 style="color: #3eaf7c; margin: 0;">瀚星居信息技术有限公司创始人<br>前中级Java开发工程师(云原生倾向) </h2>
 </div>
 
 ## 🎯 职业目标
