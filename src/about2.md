@@ -11,16 +11,10 @@ icon: user
   <h2 style="color: #3eaf7c; margin: 0;">瀚星居信息技术有限公司创始人<br>前中级Java开发工程师(云原生倾向) </h2>
 </div>
 
-## 🎯 职业目标
+## 🎯 短期职业目标（1.5年内）
 *（推荐阅读🌐网页版简历: [https://interstellar.fan/about2.html](https://interstellar.fan/about2.html)）*
 
-以多元职业探索的跨界视野为依托，重视鸿蒙生态在国际博弈中的战略定位，深耕鸿蒙开发领域：​
-
-短期聚焦基础技术，熟练掌握了声明式的ArkUI、数据获取展示与存储、三方库基本使用、应用与元服务上架，同时着力攻克应用流转功能所依托的分布式软总线等鸿蒙独创分布式技术；​
-
-长期致力于成长为兼具技术深度与业务衔接能力的鸿蒙开发中坚，推动技术在智能终端、物联网等场景落地；​
-
-最终通过技术攻坚与场景融合，为鸿蒙生态规模化拓展提供支撑，成为连接生态与行业需求的关键开发者。
+以微信小程序开发为抓手，为大量个人和小微企业（1000+）开发微信小程序，普惠软件开发服务；用数字技术助力个人和小微企业的沟通效率。
 
 ## 🛠️ 技术专长
 
@@ -279,7 +273,7 @@ icon: user
 ## 📞 联系方式
 
 <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: #f8f9fa; border-radius: 15px;">
-  <h3 style="color: #495057; margin-bottom: 1rem;">让我们一起推动鸿蒙生态的蓬勃发展！</h3>
+  <h3 style="color: #495057; margin-bottom: 1rem;">让我们一起用信息技术孕养民生经济的的蓬勃生长！</h3>
   <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">📱 微信: 16620783046</p>
   <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">📧 邮箱: postmaster@interstellar.fan</p>
   <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">🐙‍ Github: <a href="https://github.com/VincentCorleone" target="_blank" rel="noopener noreferrer">https://github.com/VincentCorleone</a></p>
