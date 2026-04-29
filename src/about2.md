@@ -21,6 +21,7 @@ icon: user
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
 
 ### 前端技术
+
 - **框架**: Vue 3、React
 - **语言**: TypeScript、JavaScript (ES6+)、Dart、ArkTS
 - **构建工具**: Vite
@@ -28,6 +29,7 @@ icon: user
 - **移动端**: 响应式设计、PWA
 
 ### 后端技术
+
 - **运行环境**: Node.js、Java、Python
 - **框架**: Express、Koa、Flask、Django
 - **数据库**: MySQL、PostgreSQL、Neo4j
@@ -35,11 +37,13 @@ icon: user
 - **云原生**: Kubernetes (K8s)
 
 ### 其他
+
 - **电商领域前后端框架**： Medusa
 - **运维面板**： 1Panel
 - **云服务商产品**： 阿里云计算软件巢
 
 ### 系统架构设计能力
+
 - **系统规划**: 设计从需求分析到部署上线的全流程架构方案
 - **模块设计**: 对复杂系统进行模块化拆分，提升系统可维护性
 - **性能优化**: 设计高并发、高可用的系统架构，保障系统稳定性
@@ -274,7 +278,7 @@ icon: user
 
 <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: #f8f9fa; border-radius: 15px;">
   <h3 style="color: #495057; margin-bottom: 1rem;">让我们一起用信息技术孕养民生经济的的蓬勃生长！</h3>
-  <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">📱 微信: 16620783046</p>
+  <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">📱 微信: 17188808800</p>
   <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">📧 邮箱: postmaster@interstellar.fan</p>
   <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">🐙‍ Github: <a href="https://github.com/VincentCorleone" target="_blank" rel="noopener noreferrer">https://github.com/VincentCorleone</a></p>
   <p style="font-size: 1.2rem; color: #6c757d; margin: 0.5rem 0;">🌐  网页版简历地址: <a href="https://interstellar.fan/about2.html" target="_blank" rel="noopener noreferrer">https://interstellar.fan/about2.html</a></p>
